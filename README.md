@@ -15,7 +15,7 @@
 
 ## Some of my projects
 
-<a href="https://github.com/eXor404/mdstack">
+<a href="https://www.mdstack.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdstack-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdstack-light.svg" />
@@ -23,7 +23,7 @@
   </picture>
 </a>
 
-<a href="https://github.com/eXor404/mdslides">
+<a href="https://mdslides.mdstack.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdslides-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdslides-light.svg" />
@@ -31,15 +31,13 @@
   </picture>
 </a>
 
-<a href="https://github.com/eXor404/git-art">
+<a href="https://git-art.net">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-git-art-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-git-art-light.svg" />
     <img width="820" alt="git-art - draw pixel art into a GitHub contribution graph" src="https://raw.githubusercontent.com/eXor404/eXor404/output/card-git-art-light.svg" />
   </picture>
 </a>
-
-Live: [mdstack.dev](https://www.mdstack.dev) / [mdslides.mdstack.dev](https://mdslides.mdstack.dev) / [git-art.net](https://git-art.net)
 
 ## Tech Stack
 

@@ -30,8 +30,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-light.svg?color_snake=#111111&color_dots=#ebedf0,#ffe9b8,#ffd270,#f5a800,#b37800
-            dist/snake-dark.svg?color_snake=#e8e8e8&color_dots=#161b22,#3d2a00,#7a5500,#c28800,#ffb000
+            dist/snake-light.svg?color_snake=#d1478f&color_dots=#f6e6f8,#eec6f2,#d8a0e8,#9b5fc6,#482878
+            dist/snake-dark.svg?color_snake=#f8a0d0&color_dots=#1e1230,#402070,#6b3a9e,#a86fd0,#d8a0e8
 
       - name: Generate project cards
         run: node .github/scripts/project-cards.mjs dist

@@ -31,22 +31,24 @@ const PROJECTS = [
 
 const THEMES = {
   dark: {
-    bg: "#0d0d12",
-    border: "#ffb000",
-    borderOpacity: 0.22,
-    title: "#e8e8e8",
-    body: "#8b8f98",
-    accent: "#ffb000",
-    meta: "#6e727a",
+    bg: "#150d24",
+    border: "#d8a0e8",
+    borderOpacity: 0.26,
+    title: "#f2e6f8",
+    body: "#a892c0",
+    accent: "#d8a0e8",
+    index: "#f8a0d0",
+    meta: "#7d6b96",
   },
   light: {
-    bg: "#faf8f3",
-    border: "#b37800",
-    borderOpacity: 0.28,
-    title: "#111111",
-    body: "#57606a",
-    accent: "#b37800",
-    meta: "#6e7781",
+    bg: "#fdf3fd",
+    border: "#9a4fc4",
+    borderOpacity: 0.30,
+    title: "#301068",
+    body: "#5f4a7a",
+    accent: "#9a4fc4",
+    index: "#d1478f",
+    meta: "#7a6690",
   },
 };
 
@@ -157,7 +159,7 @@ function card(p, index, themeName) {
   <g>
     <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="10" fill="${t.bg}" stroke="${t.border}" stroke-opacity="${t.borderOpacity}"/>
     <rect x="0.5" y="0.5" width="3" height="${H - 1}" rx="1.5" fill="${t.accent}"/>
-    <text x="${PAD}" y="47" font-family="${MONO}" font-size="13" fill="${t.accent}" opacity="0.75">${num}</text>
+    <text x="${PAD}" y="47" font-family="${MONO}" font-size="13" fill="${t.index}">${num}</text>
     <text x="${nameX}" y="47" font-family="${MONO}" font-size="20" font-weight="700" fill="${t.title}">${esc(p.repo)}</text>
     ${body}
     ${metaParts.join("\n    ")}

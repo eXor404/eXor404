@@ -8,7 +8,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/greeting-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/greeting-light.svg" />
-    <img width="640" title="General Kenobi!" alt="Hello there. Maurice Daeppen - Fullstack, DevOps and Security - Bern, CH" src="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/greeting-light.svg" />
+    <img width="640" title="General Kenobi!" alt="Hello there. Maurice Daeppen - Fullstack, DevOps and Security" src="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/greeting-light.svg" />
   </picture>
 </a>
 

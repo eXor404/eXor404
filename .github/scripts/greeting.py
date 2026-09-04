@@ -24,7 +24,7 @@ STEP = 0.085                      # seconds per character
 LINES = [
     ("prompt", "$ whoami"),
     ("typed",  TYPED),
-    ("muted",  "Maurice Däppen  ·  Fullstack, DevOps & Security  ·  Bern, CH"),
+    ("muted",  "Maurice Däppen  ·  Fullstack, DevOps & Security"),
 ]
 
 THEMES = {
@@ -46,7 +46,7 @@ curxs  = ";".join(f"{PAD_X + i*CW:.2f}" for i in range(n + 1))
 
 for name, t in THEMES.items():
     y = {k: PAD_Y + 18 + i * LH for i, (k, _) in enumerate(LINES)}
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W:.0f}" height="{H:.0f}" viewBox="0 0 {W:.0f} {H:.0f}" role="img" aria-label="Hello there. Maurice Daeppen, Fullstack, DevOps and Security, Bern, Switzerland">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W:.0f}" height="{H:.0f}" viewBox="0 0 {W:.0f} {H:.0f}" role="img" aria-label="Hello there. Maurice Daeppen, Fullstack, DevOps and Security">
   <title>General Kenobi!</title>
   <defs>
     <clipPath id="type">

@@ -7,6 +7,12 @@
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝     ╚═╝ ╚═════╝      ╚═╝
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/snake-light.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/eXor404/eXor404/output/snake-light.svg" />
+</picture>
+
 ## Tech Stack
 
 ### Languages I Write

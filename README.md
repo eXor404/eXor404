@@ -13,6 +13,34 @@
   <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/eXor404/eXor404/output/snake-light.svg" />
 </picture>
 
+## Some of my projects
+
+<a href="https://github.com/eXor404/mdstack">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdstack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdstack-light.svg" />
+    <img width="820" alt="mdstack - zero-config static-site CLI for markdown" src="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdstack-light.svg" />
+  </picture>
+</a>
+
+<a href="https://github.com/eXor404/mdslides">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdslides-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdslides-light.svg" />
+    <img width="820" alt="mdslides - turn one markdown file into a presentation" src="https://raw.githubusercontent.com/eXor404/eXor404/output/card-mdslides-light.svg" />
+  </picture>
+</a>
+
+<a href="https://github.com/eXor404/git-art">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-git-art-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/card-git-art-light.svg" />
+    <img width="820" alt="git-art - draw pixel art into a GitHub contribution graph" src="https://raw.githubusercontent.com/eXor404/eXor404/output/card-git-art-light.svg" />
+  </picture>
+</a>
+
+Live: [mdstack.dev](https://www.mdstack.dev) / [mdslides.mdstack.dev](https://mdslides.mdstack.dev) / [git-art.net](https://git-art.net)
+
 ## Tech Stack
 
 ### Languages I Write

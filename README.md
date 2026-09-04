@@ -4,6 +4,14 @@
   <img width="520" alt="eXor404" src="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/wordmark-light.svg" />
 </picture>
 
+<a href="https://daeppen.dev" title="General Kenobi!">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/greeting-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/greeting-light.svg" />
+    <img width="640" title="General Kenobi!" alt="Hello there. Maurice Daeppen - Fullstack, DevOps and Security - Bern, CH" src="https://raw.githubusercontent.com/eXor404/eXor404/main/assets/greeting-light.svg" />
+  </picture>
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eXor404/eXor404/output/snake-light.svg" />
@@ -115,3 +123,9 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## Coffee
+
+`mdstack` and `mdslides` are free and MIT licensed. If one of them saved you an afternoon:
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-d8a0e8?style=for-the-badge&logo=buymeacoffee&logoColor=150d24)](https://buymeacoffee.com/exor404)
